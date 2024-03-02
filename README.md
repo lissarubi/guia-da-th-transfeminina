@@ -13,8 +13,7 @@ Essa mensagem que um hormônio contém será lida por algum tecido do corpo, que
 Um exemplo que tá muito relacionado com a terapia hormonal transfeminina é o estrogênio, que em contato com o tecido dos seios, provoca o acúmulo de gordura.
 
 Fontes:
-
- - https://my.clevelandclinic.org/health/articles/22464-hormones
+- https://my.clevelandclinic.org/health/articles/22464-hormones
 
 # Estrogênio, Testosterona e Progesterona
 
@@ -86,16 +85,15 @@ Além de ser um estrogênio fraco como o Estriol, ele chega à ter alguns efeito
 Tem alguns estudos pro uso dele como anticoncepcional, mas essas pesquisas ainda estão em estudo, então realmente pra esse documento ele é bem irrelevante, e fica aqui listado como informação.
 
 Fontes:
-
-    - https://www.medicalnewstoday.com/articles/277177
-    - https://www.medicalnewstoday.com/articles/324887
-    - https://en.wikipedia.org/wiki/Ligand_(biochemistry)#Receptor.2Fligand_binding_affinity
-    - https://en.wikipedia.org/wiki/Estetrol_(medication)
-    - https://en.wikipedia.org/wiki/Estrone
-    - https://synapse.koreamed.org/articles/1053749
-    - https://academic.oup.com/endo/article/147/9/4132/2528319?login=false#52342521
-    - https://en.wikipedia.org/wiki/Estradiol
-    - https://en.wikipedia.org/wiki/Estriol
-    - https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794
-    - https://en.wikipedia.org/wiki/Estetrol_(medication)
-    - https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794?via%3Dihub
+- https://www.medicalnewstoday.com/articles/277177
+- https://www.medicalnewstoday.com/articles/324887
+- https://en.wikipedia.org/wiki/Ligand_(biochemistry)#Receptor.2Fligand_binding_affinity
+- https://en.wikipedia.org/wiki/Estetrol_(medication)
+- https://en.wikipedia.org/wiki/Estrone
+- https://synapse.koreamed.org/articles/1053749
+- https://academic.oup.com/endo/article/147/9/4132/2528319?login=false#52342521
+- https://en.wikipedia.org/wiki/Estradiol
+- https://en.wikipedia.org/wiki/Estriol
+- https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794
+- https://en.wikipedia.org/wiki/Estetrol_(medication)
+- https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794?via%3Dihub
