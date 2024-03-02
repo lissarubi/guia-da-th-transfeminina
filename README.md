@@ -13,6 +13,7 @@ Essa mensagem que um hormônio contém será lida por algum tecido do corpo, que
 Um exemplo que tá muito relacionado com a terapia hormonal transfeminina é o estrogênio, que em contato com o tecido dos seios, provoca o acúmulo de gordura.
 
 Fontes:
+
  - https://my.clevelandclinic.org/health/articles/22464-hormones
 
 # Estrogênio, Testosterona e Progesterona
@@ -85,6 +86,7 @@ Além de ser um estrogênio fraco como o Estriol, ele chega à ter alguns efeito
 Tem alguns estudos pro uso dele como anticoncepcional, mas essas pesquisas ainda estão em estudo, então realmente pra esse documento ele é bem irrelevante, e fica aqui listado como informação.
 
 Fontes:
+
     - https://www.medicalnewstoday.com/articles/277177
     - https://www.medicalnewstoday.com/articles/324887
     - https://en.wikipedia.org/wiki/Ligand_(biochemistry)#Receptor.2Fligand_binding_affinity
