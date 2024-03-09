@@ -97,3 +97,35 @@ Fontes:
 - https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794
 - https://en.wikipedia.org/wiki/Estetrol_(medication)
 - https://www.sciencedirect.com/science/article/abs/pii/S0960076008000794?via%3Dihub
+
+## Testosterona
+
+Testosterona é um hormônio sexual como o estrogênio, que está associado com a presença e funcionalidade dos testículos.
+
+Alguns efeitos relacionados à testosterona são:
+
+- Produção de espermatozóides
+- Crescimento de pelos
+- Fortalecimento dos ossos
+- Hipertrofia de músculos
+- Aumento da grossura da voz
+- Aumento da libido
+
+Ela faz parte do grupo dos andrógenos, que são hormônios esteróides que promovem todas as características citadas acima, cada um em suas quantidades e potências específicas.
+
+### Di-hidrotestosterona (DHT)
+
+E falando dos andrógenos, também há um outro hormônio muito importante, a Di-hidrotestosterona, ou DHT, que é uma testosterona muito mais potente, que se mantém por um tempo muito maior nos receptores que a testosterona.
+
+Por isso que mesmo em pouca quantidade (10% de toda a testosterona é convertida em DHT) ela tem um efeito muito potente, e é geralmente o que buscamos bloquear ou reduzir na terapia hormonal transfeminina
+
+Fontes:
+- https://ro.co/erectile-dysfunction/dht-vs-testosterone/
+- https://en.wikipedia.org/wiki/Androgen
+- https://www.health.harvard.edu/staying-healthy/testosterone--what-it-does-and-doesnt-do
+- https://en.wikipedia.org/wiki/Testosterone
+- https://my.clevelandclinic.org/health/articles/24555-dht-dihydrotestosterone
+
+## Progesterona
+
+Progesterona é o último dos três principais hormônios sexuais.
