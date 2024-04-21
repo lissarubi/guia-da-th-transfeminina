@@ -38,31 +38,23 @@
             - Facilidade pra supradosagem
         - Questões dos injetáveis no Brasil
             - Progestinas
-        - Medicamentos
-            - Perlutan
 
     - Oral
         - Como funciona?
         - Vantagens
             - Praticidade e velocidade
-            - Melhor para fumantes
         - Desvantagens
             - Estradiol -> Estrona
             - Aumento no risco de diversas condições
         - Questões no Brasil 
-        - Medicamentos
-            - TODO
 
     - Sublingual
         - Como funciona?
         - Vantagens
             - Monoterapia
-            - Conciliação com testosterona e hipertrofia
         - Desvantagens
             - Impraticidade
         - Questões no Brasil
-        - Medicamentos
-            - TODO
 
     - Tópico
         - Como funciona?
@@ -76,19 +68,10 @@
         - Desvantagens
             - Preço
         - Questões no Brasil
-        - Medicamentos
-            - Gel
-                - Oestrogel
-            - Adesivo
-                - Evra
 
 - Bloqueadores de Testosterona
     - Função
     - Comentário sobre Monoterapia
-    - Medicamentos
-        - Ciproterona
-        - Finasterina
-        - Espirolactona
 
 - Aplicação de Progesterona
     - Motivação

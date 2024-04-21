@@ -128,4 +128,144 @@ Fontes:
 
 ## Progesterona
 
-Progesterona é o último dos três principais hormônios sexuais.
+Progesterona é o último dos três principais hormônios sexuais. A função desse hormônio é preparar o corpo para a gravidez, participando do processo de menstruação.
+
+A progesterona atua deixando o endométrio (cavidade onde o feto se desenvolve) um espaço saudável pra esse processo de desenvolvimento celular, e caso esse feto não seja fecundado, o corpo lúteo (o tecido que produz a progesterona) se expele do corpo no liquido menstrual, pra que no próximo mês o ciclo se repita.
+
+Em uma terapia hormonal, a função da progesterona é um campo debatido, que ainda não possui uma definição clara. Em mulheres cis, a progesterona auxilia no cresimento de mamas, pois estas estão relacionadas com a gravidez por conta da amamentação, logo, por esse motivo ela também auxiliria no crescimento de mamas em mulheres trans, mas não há nenhuma pesquisa que comprova essa relação.
+
+Há uma pesquisa randomizada que está sendo feita (linkada nas fontes) sobre o uso da progesterona na terapia hormonal transfeminina, mas ela irá acabar no fim de 2024, e o seu estudo pode sair muitos anos depois. Logo ainda levará bastante tempo para termos uma conclusão objetiva sobre o assunto, e os efeitos colaterais do uso de progesterona.
+
+Na realidade, há duas problemáticas em usar progesterona, primeiro que é aumento da prolactina, uma proteína que induz o a produção de leite, que caso esteja muito alta, pode causar alguns problemas de saúde, e o aumento do risco de câncer de mama, que ainda necessita de mais pesquisas em maiores grupos de pessoas trans, mas que pode significar algo importante, principalmente para quem já possui histórico familiar da doença.
+
+Por enquanto, cabe a cada pessoa que faz TH assumir um risco desconhecido ao consumir um hormônio que seu bônus também não é conhecido, apenas relacionado. Logo, pensando em aspectos de saúde e longevidade, não é uma decisão tão boa fazer o uso de progesterona enquanto não há provas sobre seu benefício.
+
+Fontes:
+- https://my.clevelandclinic.org/health/body/21849-corpus-luteum
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10734173/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10558402/
+- https://en.wikipedia.org/wiki/Progesterone
+- https://my.clevelandclinic.org/health/body/24562-progesterone
+- https://en.wikipedia.org/wiki/Prolactin
+- https://www.tuasaude.com/prolactina-alta/
+- https://transfemscience.org/articles/progestogens-breast-cancer/
+
+# Definição de objetivos e metas
+
+Geralmente, pessoas transfemininas obtam por uma terapia hormonal por não possuirem alguma característica corporal associada ao feminino, como desenvolvimento dos seios, coxas, curvas corporais, aparência da pele, pelos corporais,etc. E como foi citado na seção anterior sobre hormônios, o estrogênio é capaz de fornecer parte dessas características, mas de qualquer maneira, é importante escrever e definir quais características você deseja pro seu corpo, pra que dessa maneira você consiga mensurar a sua terapia hormonal.
+
+Um exemplo de fator importante é se você deseja (ou precisa) bloquear a sua testosterona. Pois se a sua testosterona for muito alta (por via de um exame médico), provavelmente vai ser necessário bloquear ou reduzir ela com um medicamento. Mas caso ela tenha uma quantidade normal ou abaixo da média, é possível de fazer toda a TH sem precisar bloquear testosterona.
+
+Por isso que é importante pensar na relação dos resultados que você busca, com o seu corpo e o como ele funciona, pois antes do determinante ser o medicamento que você vai tomar, e a quantidade deste, o seu corpo vai ser a grande chave pra esse processo.
+
+## Monoterapia
+
+Uma opção muito interessante é fazer uma monoterapia, que consiste no uso apenas de estradiol, pois o estrogênio em quantidades suficientes, é capaz de reduzir a testosterona sozinho, mantendo os efeitos estrogênicos. Essa opção é interessante para redução de custos, efeitos colaterais e riscos associados ao consumo de progesteronas, progestinas (progesteronas sintéticas) e medicamentos bloqueadores de testoterona (como Finasterina, usado na queda capilar masculina).
+
+Mas algo importante de lembrar é que os níveis de estradiol precisam se manter saudáveis mesmo em monoterapia. Não adianta não precisar tomar outros medicamentos além do estrogênio, expondo seu corpo aos riscos de um estradiol muito alto.
+
+## Hormônios Bioidênticos
+
+Algo importante de ser destacado é que sempre devemos preferir hormônios bioidênticos (como valerato de estradiol) que hormôrnios sintéticos (como etinilestradiol), principalemente por aumentarem o risco de coagulação no sangue, que pode levar á doenças como trombose, por isso não são indicados em qualquer TH transfeminina.
+
+- https://transfemscience.org/articles/estrogens-blood-clots/
+
+## Fitoestrogênio
+
+Fitoestrogênio é uma substância vegetal que tem uma composição química similar ao estradiol. Para pessoas transfemininas em TH, é interessante não ter na **BASE** da sua dieta alimentos com **ALTO** teor de fitoestrogênio pois eles se ligam nos receptores de estradiol, e caso a quantidade seja muito alta, ele pode se ligar nos receptores no lugar do estradiol bioidêntico, reduzindo os efeitos da TH. Claro, você ainda pode consumir esses alimentos, mas apenas não exagere eles durante a sua dieta.
+
+Alguns alimentos com alto teor de fitoestrogênio é linhaça, soja, tofu e gergelim.
+
+- https://www.tuasaude.com/alimentos-ricos-em-estrogenios/
+- https://en.wikipedia.org/wiki/Phytoestrogen
+- https://jpharmsci.org/article/S0022-3549(16)32317-6/abstract
+
+## Fumantes
+
+Caso você seja fumante, além de todos os ricos que fumar já traz, um outro incentivo para parar essa prática é a informação que terapia hormonal oral se torna muito pouco efetiva sob o uso de tabaco. Então reduza ou pare de fumar caso opte por uma terapia hormonal oral.
+
+- https://www.ingentaconnect.com/content/ben/cmccha/2005/00000003/00000001/art00005
+
+# Vias de Aplicação
+
+Antes de escolher o medicamento que vamos utilizar na nossa terapia hormonal, é necessário escolher a melhor via de aplicação para a sua rotina e expectativa de saúde.
+
+Cada via tem uma quantidade diferente de estradiol que será utilizado, uma frequência diferente, e implicações na saúde. Por isso é importante esse processo de estudar e escolher a melhor via para você.
+
+## Injetável
+
+A mais famosa via de aplicação do estradiol no corpo é a via intramuscular, ou injetável. Essa via utiliza uma injeção (seringa) contendo um medicamento com o hormônio, que será aplicada em um músculo do corpo.
+
+### Vantagens
+
+- **Tempo de meia vida longo:** o medicamento se mantém por bastante tempo no corpo, permitindo aplicações a cada semana ou duas semanas;
+- **Praticidade:** CASO você não tenha problemas com injeções, pode ser mais prático fazer a aplicação a cada semana ou duas semanas, diferente de outras vias que podem exigir o uso de um medicamento todo dia ou multiplas vezes no dia;
+- **Monoterapia:** É uma das melhores vias para se fazer monoterapia, pois podemos atingir uma alta quantidade de estradiol, com uma baixa quantidade de medicamento;
+
+### Desvantagens
+
+- **Medo:** caso você tenha medo de agulhas, vai ser um processo imprático usar essa via;
+- **Supradosagem:** Caso você não faça exames regulares, e utilize quantidades realistas dos medicamentos, você pode ter uma quantidade muito alta de estradiol, que eleva riscos de problemas de saúde;
+
+### Progestinas
+
+Atualmente, todos os medicamentos de estradiol injetável do Brasil contém uma progestina (progesterona sintética) em grandes quantidades, que isso pode ser problemático caso você evite o uso de progesterona com os fatores de risco e icógnitas citadas aqui.
+
+- https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Intramuscular_injection
+- https://transfemscience.org/articles/estrogens-blood-clots/
+
+## Oral
+
+A via oral também é muito usada, sendo caracterizada pelo consumo de um comprimido contendo o estradiol.
+
+## Vantagens
+
+- **Praticidade:** Por ser um medicamento oral, dependendo do seu dia a dia, ainda mais se já consome medicamentos orais, pode ser mais prático adicionar mais um comprimido nessa rotina, que precisar reservar um momento para fazer a aplicação como no trandérmico ou injetável;
+
+## Desvantagens
+
+- **Estrona:** A maior parte do estradiol consumido por via oral se torna estrona, que como vimos, é uma forma mais fraca de estrogênio, então o potencial dessa via é fortemente capado por esse fator;
+- **Fumantes:** Caso seja fumante, como foi citado, o estradiol oral é fortemente afetado pelo hábito de fumar, reduzindo a sua potencialidade;
+- **Riscos:** Por ser um medicamento oral, pode estressar o fígado caso você tenha problema com consumo de medicamentos por essa via, tome muitos comprimidos por dia, ou já faça uso de outros medicamentos orais no dia a dia;
+
+- https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/estrone
+- https://transfemscience.org/articles/estrogens-blood-clots/
+
+## Transdérmica
+
+A via transdérmica também é muito utitilizada, sendo caracterizada pela aplicação do estradiol pela pele, por um gel ou adesivo de estradiol, que é lentamente absorvido pelo organismo.
+
+É importante que a pele esteja limpa para essa via, por isso é recomendado que seja aplicada após o banho.
+
+## Aplicação no Escroto/Neovagina
+
+Um detalhe importante é que a via transdérmica se torna muito mais relevante quando utilizada no escroto ou neovagina para pessoas operadas, pois nessa região o estradiol é muito mais absorvido, melhorando o custo benefício e os resultados dessa via.
+
+- https://transfemscience.org/articles/genital-e2-application/
+- https://en.wikipedia.org/wiki/Pharmacokinetics_of_estradiol#Transdermal_administration
+
+## Vantagens
+
+- **Monoterapia:** Com a aplicação no escroto/neovagina, podemos obter uma quantidade de estradiol muito satisfatória para uma monoterapia, reduzindo custos e riscos por não precisar utilizar um bloqueador;
+- **Praticidade:** Novamente, dependendo do seu dia a dia, principalmente se após o banho, você possui um tempo para utilizar hidratantes, skincare, cuidados pessoais,etc. que o hormônio pode ser adicionado à essa rotina;
+- **Segurança:** Os medicamentos dessa via são geralmente para mulheres cis na menopausa, e por isso ela tende a ter uma segurança e foco na longevidade maior, tanto pelo público alvo, quanto pelos medicamentos serem de estradiol bioidêntico e sem a mistura de outros componentes como progesteronas ou progestinas;
+
+## Desvantagens
+
+- **Preço**: Em relação às outras vias, o preço dos medicamentos em médica pode ser mais alto;
+
+## Sublingual
+
+A via sublingual consiste em deixar um comprimido de estradiol em baixo da língua, e esperar que o comprimido se dissolva e entre na corrente sanguínea.
+
+Essa via tem o menor tempo de meia vida de todas, significando que deve ser consumida múltiplas vezes por dia, quebrando os comprimidos em tamanhos iguais.
+
+## Vantagens
+
+- **Monoterapia:** Pela alta absorção, pode ser utilizada para monoterapia;
+
+## Desvantagens
+
+- **Impraticidade:** Dependendo do seu dia a dia, pode ser algo incômodo consumir diversas partes de um medicamento ao longo do dia em horários fixos;
+
+- https://transfemscience.org/articles/sublingual-e2-transfem/
