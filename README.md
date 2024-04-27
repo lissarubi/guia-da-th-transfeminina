@@ -269,3 +269,11 @@ Essa via tem o menor tempo de meia vida de todas, significando que deve ser cons
 - **Impraticidade:** Dependendo do seu dia a dia, pode ser algo incômodo consumir diversas partes de um medicamento ao longo do dia em horários fixos;
 
 - https://transfemscience.org/articles/sublingual-e2-transfem/
+
+# Acompanhamento
+
+Para fazer o acompanhamento, é necessário fazer um exame de sangue para medir o estradiol e a testosterona total (não meça a livre, ela será inútil para o acompanhamento na TH).
+
+Os valores variam de pessoa pra pessoa, mas em média, uma quantidade saudável é por volta de 100pg/ml de estradiol, uma alta quantidade é 200 pg/ml e uma quantidade muito alta é 300 pg/ml.
+
+De testosterona, caso seja uma monoterapia, ela tem a ser um pouco baixa pela alta quantidade de estradiol sendo usada para suprir ela, valores como 10 a 30 ng/dl.
